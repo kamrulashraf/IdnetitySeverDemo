@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShopAuth", "EShopAuth\EShopAuth.csproj", "{3C42FD9A-5889-4D1F-AAF3-C6A5C010A896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptClient", "JavaScriptClient\JavaScriptClient.csproj", "{951DCB43-2BFB-4B77-B932-F0B7ABFA1461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C42FD9A-5889-4D1F-AAF3-C6A5C010A896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C42FD9A-5889-4D1F-AAF3-C6A5C010A896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C42FD9A-5889-4D1F-AAF3-C6A5C010A896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C42FD9A-5889-4D1F-AAF3-C6A5C010A896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951DCB43-2BFB-4B77-B932-F0B7ABFA1461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951DCB43-2BFB-4B77-B932-F0B7ABFA1461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951DCB43-2BFB-4B77-B932-F0B7ABFA1461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951DCB43-2BFB-4B77-B932-F0B7ABFA1461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86E5DEF1-EA2E-4046-8502-F1F179897CC8}
+	EndGlobalSection
+EndGlobal
